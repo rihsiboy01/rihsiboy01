@@ -1,0 +1,110 @@
+header h1 b{
+    color:  red;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+}
+header button{
+    background-color: red;
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+}
+.iki h1{
+    font-weight: 900;
+    font-size: 50px;
+}
+.iki h1 b{
+    color: rebeccapurple;
+}
+.iki{
+    width: 600px;
+    height: 685px;
+}
+.bir{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 100px;
+}
+.iki button{    
+    border-radius: 20;
+    background-color: red;
+}
+.nol{
+    display: flex;
+    justify-content: space-around;
+}
+.nol div{
+    width: 626px;
+    height: 223px;
+}
+.nol button{
+    border-radius: 20px;
+    border-radius bottom right: none;
+}
+.temir h1 b{
+     color: blue;    
+}
+.muz div{
+      width: 364px;
+      height: 417px;
+}
+.temir h1{
+    text-align: center;
+}
+.temir{
+    margin-top: 500px;
+}
+.muz{
+    display: flex;
+    justify-content: space-around;
+}
+.sur{
+    margin: 100px;
+}
+.sur b{
+      color: red;
+}
+.sur h1 {
+    text-align: center;
+}
+.sur div{
+      width: 400px;
+}
+.sur{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background-color: red;
+
+}
+footer div{
+    width: 70%;
+    height: 50px;
+    background-color: white;
+}
+input{
+      border: none;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+
